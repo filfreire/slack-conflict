@@ -1,6 +1,6 @@
 # slack-conflict
 
-A role-playing game for EvilCorp's Paid Hostageware/Ransomware communication tool
+A role-playing game for [EvilCorp](https://www.imdb.com/title/tt4158110/)'s [Paid Hostageware/Ransomware communication tool](https://slack.com)
 
 ## What's the game about?
 
