@@ -4,7 +4,9 @@ A role-playing game for [EvilCorp](https://www.imdb.com/title/tt4158110/)'s [Pai
 
 ## What's the game about?
 
-Explained in an image: `<TBD>`
+Explained in an image:
+
+<img src="./defcon.jpg">`
 
 ## What's the idea of this project?
 
